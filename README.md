@@ -1,4 +1,4 @@
-# Angular2 Material Dashboard Pro
+# Angular 6 Material Dashboard Pro
 
 Material-design Dashboard
 
